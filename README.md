@@ -1,5 +1,6 @@
 # 🍔 Foodpanda Customer Behavior Analysis
 
+
 ## 📌 Project Overview
 
 This project analyzes **Foodpanda customer behavior** using SQL and Power BI to uncover purchasing patterns, customer characteristics, restaurant performance, sales trends, and business insights that can support data-driven decision making.
